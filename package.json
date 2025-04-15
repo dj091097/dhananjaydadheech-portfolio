@@ -10,7 +10,7 @@
     "check": "tsc",
     "db:push": "drizzle-kit push",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/dj091097/dhananjaydadheech-portfolio.git --branch gh-pages --message 'Deploying 🚀' --force"
+    "deploy": "gh-pages -d dist -r https://github.com/dj091097/dhananjaydadheech-portfolio.git"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
